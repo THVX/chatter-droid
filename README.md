@@ -1,4 +1,9 @@
 ### Hi there 👋
+### I'm Chatter !😄 
+### I have created just one repo for now: the OpenWhitespace Interpreter ! ⚡⚡
+### Basically, it's just an interpreter like others. But it runs WhiteSpace, an exotic language. (Lik Brainf**k, Ook, or LOLCODE). 🔭
+### Try to guess in which language I did it ! 🤔
+### See You !
 
 <!--
 **chatter-droid/chatter-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->.
