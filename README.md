@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Chatter Droid !😄 
+### I'm Chatter Droid 🤖!😄 
 ### I have created 3 repos for now: the OpenWhitespace Interpreter, snack and Illusion Browser ! ⚡⚡
 ### Basically, OpenWhitespace is just an interpreter like others. But it runs WhiteSpace, an exotic language. (Like Brainf**k, Ook, or LOLCODE). 🔭
 ### snack is a command line interface that prints thing on the screen. 💬
